@@ -1,5 +1,8 @@
 ![](header.png)
 <h2 align="center">Hi! I'm Kamyab and I'm a .NET developer 👋</h2>
+<p> 
+I'm a highly experienced backend developer with 4 years of experience in developing software solutions. My expertise lies in programming in C#, Angular, and ASP.NET Core. I have a strong eye for detail and I'm always looking for ways to improve my skills and develop new ones. I'm passionate about exploring new technologies and pushing the boundaries of software development. I'm also an active member of the software development community and love to share knowledge and help others.
+</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
