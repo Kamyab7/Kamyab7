@@ -25,6 +25,8 @@
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="30" alt="microsoftsqlserver logo"  />
 </div>
 
+<br/>
+
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Kamyab7&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 </div>
@@ -41,14 +43,4 @@
 
 ###
 
-<br clear="both">
-
-
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
 
