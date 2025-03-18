@@ -24,8 +24,6 @@ I'm a highly experienced backend developer with 4 years of experience in develop
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="30" alt="microsoftsqlserver logo"  />
 </div>
 
 <br/>
