@@ -1,7 +1,7 @@
 ![](header.png)
 <h2 align="center">Hi! I'm Kamyab and I'm a Software Engineer 👋</h2>
 <p align="center"> 
-I'm a 25-year-old software engineer with 4 years of experience in developing robust and scalable software solutions. My expertise spans .NET development, AI-driven solutions, full-stack development, and DevOps practices. I have a proven track record of improving system performance, reducing costs, and delivering high-quality software for major organizations. I'm passionate about leveraging emerging technologies to solve complex problems and contribute to the software development community.
+I'm a 25-year-old software engineer with +6 years of experience in developing robust and scalable software solutions. My expertise spans .NET development, AI-driven solutions, full-stack development, and DevOps practices. I have a proven track record of improving system performance, reducing costs, and delivering high-quality software for major organizations. I'm passionate about leveraging emerging technologies to solve complex problems and contribute to the software development community.
 </p>
 <br/>
 
