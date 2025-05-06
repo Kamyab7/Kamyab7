@@ -21,7 +21,7 @@ I'm a software engineer with +6 years of experience in developing robust and sca
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=&multiline=true&width=550&height=28&lines=I+make+a+blog+weekly%2C+if+you're+interseted%2C+take+a+look.)](https://dev.to/kamyab7/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=&multiline=true&width=550&height=28&lines=I+make+a+blog+weekly%2C+if+you're+interseted%2C+take+a+look.)](https://www.kamyabvalipour.com/)
 
 <p align="center">
   <a href="https://skillicons.dev">
