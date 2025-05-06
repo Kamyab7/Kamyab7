@@ -17,6 +17,12 @@ I'm a software engineer with +6 years of experience in developing robust and sca
   </a>
 </p>
 
+<h2 align="center">Latest Blog posts 💬</h2>
+
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=&multiline=true&width=550&height=28&lines=I+make+a+blog+weekly%2C+if+you're+interseted%2C+take+a+look.)](https://dev.to/kamyab7/)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cs,azure,angular,kubernetes,linux,redis,sentry,wasm,vscode,visualstudio,ts,terraform,rider,rabbitmq,kafka&perline=9" />
