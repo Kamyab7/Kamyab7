@@ -5,11 +5,10 @@ I'm a 25-year-old software engineer with 4 years of experience in developing rob
 </p>
 <br/>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cs,azure,angular,kubernetes,linux,redis,sentry,wasm,vscode,visualstudio,ts,terraform,rider,rabbitmq,kafka&perline=9" />
-  </a>
-</p>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamyab7&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kamyab7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
 <p align="center">
   <a href="https://wakatime.com/@kamyab7">
@@ -19,7 +18,8 @@ I'm a 25-year-old software engineer with 4 years of experience in developing rob
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamyab7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cs,azure,angular,kubernetes,linux,redis,sentry,wasm,vscode,visualstudio,ts,terraform,rider,rabbitmq,kafka&perline=9" />
+  </a>
+</p>
